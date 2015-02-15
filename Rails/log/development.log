@@ -10993,3 +10993,17 @@ Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-15 08:11:3
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-15 08:11:39 -0800
+
+
+Started GET "/games/233" for 127.0.0.1 at 2015-02-15 08:14:39 -0800
+Processing by GamesController#show as HTML
+  Parameters: {"id"=>"233"}
+  [1m[36mGame Load (0.3ms)[0m  [1mSELECT  "games".* FROM "games"  WHERE "games"."id" = $1 LIMIT 1[0m  [["id", 233]]
+  Rendered games/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 18ms (Views: 14.9ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-15 08:14:39 -0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-15 08:14:39 -0800
