@@ -12,6 +12,7 @@ Rails/db/*.sqlite3
 Rails/db/*.sqlite3-journal
 
 # Ignore all logfiles and tempfiles.
+Rails/log/development.log
 Rails/log/*.log
 Rails/tmp
 

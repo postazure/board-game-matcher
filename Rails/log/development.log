@@ -11007,3 +11007,17 @@ Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-15 08:14:3
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-15 08:14:39 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-15 08:17:39 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.8ms)[0m  SELECT "games".* FROM "games"
+  Rendered games/index.html.erb within layouts/application (40.0ms)
+Completed 200 OK in 76ms (Views: 70.4ms | ActiveRecord: 3.6ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-15 08:17:39 -0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-15 08:17:39 -0800
