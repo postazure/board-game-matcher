@@ -10979,3 +10979,17 @@ Processing by GamesController#show as HTML
   [1m[36mGame Load (0.4ms)[0m  [1mSELECT  "games".* FROM "games"  WHERE "games"."id" = $1 LIMIT 1[0m  [["id", 208]]
   Rendered games/show.html.erb within layouts/application (0.6ms)
 Completed 200 OK in 19ms (Views: 14.8ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-02-15 08:11:39 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.8ms)[0m  SELECT "games".* FROM "games"
+  Rendered games/index.html.erb within layouts/application (40.1ms)
+Completed 200 OK in 74ms (Views: 68.7ms | ActiveRecord: 3.6ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-15 08:11:39 -0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-15 08:11:39 -0800
