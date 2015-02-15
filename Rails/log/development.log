@@ -10934,3 +10934,26 @@ Processing by GamesController#get_board_game_geek_data as HTML
   [1m[35m (8.5ms)[0m  COMMIT
   Rendered html template (0.0ms)
 Completed 200 OK in 29320ms (Views: 0.7ms | ActiveRecord: 323.1ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-15 07:53:44 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (12.0ms)[0m  SELECT "games".* FROM "games"
+  Rendered games/index.html.erb within layouts/application (101.3ms)
+Completed 200 OK in 167ms (Views: 137.8ms | ActiveRecord: 16.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-02-15 07:53:44 -0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-02-15 07:53:44 -0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-02-15 07:53:44 -0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-02-15 07:53:44 -0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-02-15 07:53:44 -0800
