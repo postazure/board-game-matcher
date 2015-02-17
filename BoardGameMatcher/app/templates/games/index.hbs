@@ -2,7 +2,11 @@
 
 <ul>
 {{#each game in model}}
-  <li>{{game.title}}</li>
+  <div>
+    {{#link-to "games.show" game}}
+      {{game.title}}
+    {{/link-to}}
+  </div>
 {{/each}}
 </ul>
 
