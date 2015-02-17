@@ -11996,3 +11996,491 @@ Started GET "/games" for 127.0.0.1 at 2015-02-16 22:38:04 -0800
 Processing by GamesController#index as HTML
   [1m[36mGame Load (1.8ms)[0m  [1mSELECT "games".* FROM "games"[0m
 Completed 200 OK in 577ms (Views: 574.5ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:39:14 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.5ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 380ms (Views: 377.9ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:41:30 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.3ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 394ms (Views: 392.3ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:41:49 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (2.4ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 317ms (Views: 314.3ms | ActiveRecord: 2.4ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:42:57 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.2ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 307ms (Views: 305.8ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:43:17 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (2.2ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 385ms (Views: 382.5ms | ActiveRecord: 2.2ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:43:30 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.8ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 329ms (Views: 327.1ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:44:16 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (2.0ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 331ms (Views: 328.9ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:48:17 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (5.2ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 419ms (Views: 413.7ms | ActiveRecord: 5.2ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:48:23 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.6ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 374ms (Views: 372.1ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:48:34 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (2.0ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 364ms (Views: 362.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:48:46 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (2.1ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 333ms (Views: 330.3ms | ActiveRecord: 2.1ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:48:57 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (3.2ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 528ms (Views: 524.8ms | ActiveRecord: 3.2ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:49:12 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.9ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 421ms (Views: 419.1ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:50:53 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (2.6ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 479ms (Views: 476.0ms | ActiveRecord: 2.6ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:50:57 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.3ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 407ms (Views: 405.1ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:51:06 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.6ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 474ms (Views: 471.9ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:51:57 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.5ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 450ms (Views: 448.3ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:52:24 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (2.8ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 496ms (Views: 492.8ms | ActiveRecord: 2.8ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:53:17 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.8ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 339ms (Views: 336.0ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:53:39 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.8ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 369ms (Views: 367.1ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:54:25 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.9ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 428ms (Views: 426.2ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:54:41 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (3.4ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 379ms (Views: 375.4ms | ActiveRecord: 3.4ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:55:18 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (5.3ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 418ms (Views: 412.4ms | ActiveRecord: 5.3ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 08:55:31 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.7ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 358ms (Views: 355.8ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:03:59 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.9ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 367ms (Views: 364.8ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:04:03 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (2.2ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 340ms (Views: 337.5ms | ActiveRecord: 2.2ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:04:13 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.5ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 390ms (Views: 388.6ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:04:41 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.9ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 387ms (Views: 384.6ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:04:44 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (2.5ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 373ms (Views: 369.9ms | ActiveRecord: 2.5ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:05:14 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (3.8ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 465ms (Views: 461.5ms | ActiveRecord: 3.8ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:05:35 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (3.7ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 408ms (Views: 404.0ms | ActiveRecord: 3.7ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:05:40 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (2.0ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 363ms (Views: 360.3ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:06:08 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (2.8ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 400ms (Views: 396.8ms | ActiveRecord: 2.8ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:06:14 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.5ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 605ms (Views: 603.6ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:06:29 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.8ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 449ms (Views: 447.1ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:10:43 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.4ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 321ms (Views: 319.2ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:11:15 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.5ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 508ms (Views: 506.3ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:11:18 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.8ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 460ms (Views: 458.3ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:11:21 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.9ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 510ms (Views: 508.2ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:11:34 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (2.1ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 448ms (Views: 445.1ms | ActiveRecord: 2.1ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:11:49 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.8ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 474ms (Views: 472.1ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:12:25 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.9ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 458ms (Views: 455.6ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:13:12 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.7ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 437ms (Views: 435.0ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:13:17 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (2.0ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 482ms (Views: 479.7ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:13:48 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (2.7ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 564ms (Views: 561.4ms | ActiveRecord: 2.7ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:13:49 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (2.6ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 598ms (Views: 595.5ms | ActiveRecord: 2.6ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:35:53 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (2.4ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 420ms (Views: 417.3ms | ActiveRecord: 2.4ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:35:58 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (2.5ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 393ms (Views: 390.0ms | ActiveRecord: 2.5ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:36:12 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.7ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 330ms (Views: 324.6ms | ActiveRecord: 3.7ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:36:45 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (3.6ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 469ms (Views: 464.9ms | ActiveRecord: 3.6ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:38:54 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (2.1ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 339ms (Views: 332.9ms | ActiveRecord: 4.0ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:39:31 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.6ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 449ms (Views: 447.1ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:40:05 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.9ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 448ms (Views: 445.5ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:40:09 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (2.0ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 453ms (Views: 450.8ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:40:45 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.7ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 471ms (Views: 468.5ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:40:52 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (2.8ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 491ms (Views: 487.7ms | ActiveRecord: 2.8ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:41:31 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.8ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 448ms (Views: 446.1ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:42:33 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.7ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 446ms (Views: 444.3ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:42:52 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (2.4ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 480ms (Views: 477.3ms | ActiveRecord: 2.4ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:43:01 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (2.1ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 454ms (Views: 451.4ms | ActiveRecord: 2.1ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:44:03 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (2.1ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 443ms (Views: 441.1ms | ActiveRecord: 2.1ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:49:27 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.8ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 441ms (Views: 439.3ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:51:11 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.8ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 497ms (Views: 494.4ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:53:00 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.9ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 435ms (Views: 432.4ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:53:15 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.5ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 431ms (Views: 429.4ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:53:25 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (6.1ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 488ms (Views: 481.2ms | ActiveRecord: 6.1ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 09:53:56 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.5ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 528ms (Views: 526.4ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 10:02:22 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (2.9ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 468ms (Views: 464.8ms | ActiveRecord: 2.9ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 10:02:42 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.9ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 443ms (Views: 440.4ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 10:02:52 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.8ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 453ms (Views: 450.5ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 10:02:53 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.9ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 570ms (Views: 567.4ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 10:09:19 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (3.5ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 492ms (Views: 487.9ms | ActiveRecord: 3.5ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 10:09:59 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.4ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 472ms (Views: 469.9ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 10:10:08 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.5ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 607ms (Views: 605.1ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 10:11:18 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.9ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 456ms (Views: 454.0ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 10:11:21 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (2.3ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 478ms (Views: 475.7ms | ActiveRecord: 2.3ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 10:11:27 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (1.4ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 513ms (Views: 511.1ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 10:11:39 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.6ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 517ms (Views: 515.6ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 10:11:54 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (2.1ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 443ms (Views: 440.6ms | ActiveRecord: 2.1ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 10:12:49 -0800
+Processing by GamesController#index as HTML
+  [1m[36mGame Load (1.5ms)[0m  [1mSELECT "games".* FROM "games"[0m
+Completed 200 OK in 493ms (Views: 491.5ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/games" for 127.0.0.1 at 2015-02-17 10:12:59 -0800
+Processing by GamesController#index as HTML
+  [1m[35mGame Load (2.3ms)[0m  SELECT "games".* FROM "games"
+Completed 200 OK in 514ms (Views: 511.3ms | ActiveRecord: 2.3ms)

@@ -1,12 +1,14 @@
 <h3>Games</h3>
 
 <ul>
-{{#each game in model}}
+{{#each game in model}} 
+  
   <div>
     {{#link-to "games.show" game}}
       {{game.title}}
     {{/link-to}}
   </div>
+  
 {{/each}}
 </ul>
 
