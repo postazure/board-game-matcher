@@ -1,5 +1,10 @@
 <h3>Games</h3>
-BoardGameMatcher/app/templates/games/index.hbs
-{{log games}}
+
+<ul>
+{{#each game in model}}
+  <li>{{game.title}}</li>
+{{/each}}
+</ul>
+
 
 {{outlet}}
